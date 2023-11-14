@@ -1,7 +1,7 @@
 ChinaDNS-Python
 ===============
 
-[![PyPI version]][PyPI] [![Build Status]][Travis CI]
+[![PyPI#version]][PyPI]#[![Build Status]][Travis CI]
 
 Fix [weird things] with DNS in China.
 
@@ -93,3 +93,4 @@ Mailing list: http://groups.google.com/group/shadowsocks
 [Shadowsocks]:     https://github.com/clowwindy/shadowsocks
 [Travis CI]:       https://travis-ci.org/clowwindy/ChinaDNS-Python
 [weird things]:    http://en.wikipedia.org/wiki/Great_Firewall_of_China#Blocking_methods
+ 
