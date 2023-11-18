@@ -1,6 +1,6 @@
 *.py[co]
 
-# Packages
+#*Packages
 *.egg
 *.egg-info
 dist
@@ -13,7 +13,7 @@ sdist
 develop-eggs
 .installed.cfg
 
-# Installer logs
+##Installer logs
 pip-log.txt
 
 # Unit test / coverage reports
@@ -28,3 +28,4 @@ pip-log.txt
 
 .DS_Store
 .idea
+ 
